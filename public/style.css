@@ -1,0 +1,27 @@
+body {
+  background-color: antiquewhite;
+  color: #c58940;
+}
+h1 {
+  color: #fff;
+  background-color: darkgreen;
+  text-align: center;
+}
+h2 {
+  color: aliceblue;
+  background-color: #c58940;
+  text-align: center;
+}
+p {
+  font-family: "Dosis", sans-serif;
+}
+img {
+  border: 3px solid;
+  border-radius: 10%;
+  display: block;
+  margin: 0 auto;
+}
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+}
